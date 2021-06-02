@@ -28,7 +28,7 @@ function setup(){
   frog2.addImage(frog2img);
   frog2.scale = 0.5;
 
-  path = createSprite(displayWidth/2,displayHeight/2-50,displayWidth,40);
+ // path = createSprite(displayWidth/2,displayHeight/2-50,displayWidth,40);
 
   
 }
